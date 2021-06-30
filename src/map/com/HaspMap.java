@@ -14,7 +14,8 @@ public class HaspMap {
 		 
 		m.put(3,"Anblicks");
 		m.put(4,"Parin"); 
-		m.put(5,"Maanvitha");
+		m.put(5,"Maanvitha"); 
+		m.put(6,"Nani");
 		
 		System.out.println("The value of m is"+m);
 		
