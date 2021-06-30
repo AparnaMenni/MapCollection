@@ -15,7 +15,7 @@ public class HaspMap {
 		m.put(3,"Anblicks");
 		m.put(4,"Parin"); 
 		m.put(5,"Maanvitha");
-		
+		m.put(7,"omkar"):
 		System.out.println("The value of m is"+m);
 		
 		// TODO Auto-generated method stub
